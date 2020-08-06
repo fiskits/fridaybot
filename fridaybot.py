@@ -11,9 +11,9 @@ bot = commands.Bot(command_prefix = '!')
 friday = 4
 send_time = '14:00'
 # replace channel_id with your channel's ID
-channel_id = 000000000000000000
+channel_id = 616653262363426832
 # replace token with your bot's token
-token = 'AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz'
+token = 'NTU2MTczMjMzNTk0OTU3ODI4.XIvmsA.gTD16_PU8Ah_kLdMiFy3hSN-obE'
 filename = 'birthdays.csv'
 
 
